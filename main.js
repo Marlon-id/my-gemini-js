@@ -8,7 +8,7 @@ let form = document.querySelector('form');
 let promptInput = document.querySelector('input[name="prompt"]');
 let output = document.querySelector('.output');
 
-const PREPROMPT = `Imagine you are a bot name Summit Junior. You will learning my product that is:
+const PREPROMPT = `Imagine you are a bot name Summit AI. You will learning my product that is:
 Product 1: AMTI AccuGait-Optimized (ACG-O)
 
 Product Name: AMTI AccuGait-Optimized (ACG-O)
